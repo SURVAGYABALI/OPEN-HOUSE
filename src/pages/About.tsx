@@ -153,7 +153,7 @@ const About = () => {
             <div className="md:flex-shrink-0">
               <img
                 className="h-48 w-full object-cover md:h-full md:w-48"
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80"
+                src="images/Director-Sir-PEC_0.png"
                 alt="Director"
               />
             </div>
@@ -161,7 +161,7 @@ const About = () => {
               <div className="uppercase tracking-wide text-cosmic-yellow font-semibold">
                 Message from the Director
               </div>
-              <h3 className="mt-2 text-2xl font-semibold text-white">Prof. Baldev Setia</h3>
+              <h3 className="mt-2 text-2xl font-semibold text-white">Prof. Rajesh Kumar Bhatia</h3>
               <p className="mt-4 text-gray-300">
                 "Welcome to PEC Open House 2025! This event represents our commitment to fostering 
                 innovation and excellence in engineering education. We invite you to explore our 

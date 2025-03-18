@@ -55,7 +55,7 @@ const Footer = () => {
         </div>
         
         <div className="mt-8 pt-8 border-t border-white/10 text-center">
-          <p className="text-white/80">Mayank Lola pakadle mera ye le bana dia tera footer</p>
+          <p className="text-white/80">Footer Text</p>
         </div>
       </div>
     </footer>

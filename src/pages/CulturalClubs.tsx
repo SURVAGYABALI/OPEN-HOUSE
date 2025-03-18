@@ -99,7 +99,7 @@ const CulturalClubs = () => {
               The English Editorial Board is a group of free-minded people who are passionate about the English language and writing.
               </p>
               <ul className="text-gray-300 space-y-2">
-                {['Bakchodi Sessions', 'Bakschodi Workshops', 'Bakschodi Exhibitions', 'Bakschodi Competitions'].map((item, index) => (
+                {['Poetry Sessions', 'Poetry Workshops', 'Poetry Exhibitions', 'Poetry Competitions'].map((item, index) => (
                   <li key={index} className="flex items-center">
                     <Sparkles className="w-4 h-4 mr-2 text-cosmic-yellow" />
                     {item}
