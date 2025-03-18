@@ -98,13 +98,15 @@ const Home = () => {
                 className="h-24 md:h-32"
               />
             </div>
+        
             <h1 
               className="text-4xl md:text-6xl font-bold bg-gradient-cosmic-text text-transparent bg-clip-text mb-6" 
               id="title"
-              data-value="PEC Open House 2025"
+              data-value="PUNJAB ENGINEERING COLLEGE"
             >
-              PEC Open House 2025
+              PUNJAB ENGINEERING COLLEGE
             </h1>
+           
             <p className="text-xl md:text-2xl text-white mb-8">
               Experience Innovation, Engineering, and Excellence
             </p>
